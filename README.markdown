@@ -32,7 +32,7 @@ And that's it! Now everything should work.
 
 Import the get_pyres helper:
 
-```from pyres_django import get_pyres```
+```from pyres_django.helpers import get_pyres```
 
 Then anywhere in your code just do:
 
